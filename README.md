@@ -1,2 +1,2 @@
-# Homework1-SDA (data structures and algorithms)
+# Theme requirement:
 This theme is based on creating a hash table.
